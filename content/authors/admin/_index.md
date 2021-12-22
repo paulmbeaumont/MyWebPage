@@ -13,7 +13,7 @@ highlight_name: false
 interests:
 - Time Series Analysis
 - Computational Finance
-- Data Analytics
+- Data Analysis
 organizations:
 - name: Florida State University
   url: https://www.fsu.edu/ 
