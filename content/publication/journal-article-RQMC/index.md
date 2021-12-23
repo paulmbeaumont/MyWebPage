@@ -12,7 +12,7 @@ authors:
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
@@ -20,7 +20,7 @@ publication: '*Computational Economics*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-01-01T00:00:00Z"
+publishDate: "2018-02-01T00:00:00Z"
 # slides: example
 # summary: 
 # tags:
