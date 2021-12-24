@@ -40,33 +40,6 @@ experience:
     date_end: '1999-05-31'
     description:
     
-  - title: Visiting Professor of Economics and Finance
-    company: Balamand University
-    company_url: ''
-    company_logo:  
-    location: Tripoli, Lebanon
-    date_start: '2008-08-08'
-    date_end: '2009-08-31'
-    description:
-    
-  - title: Visiting Professor of Financial Economics
-    company: American University of Beirut
-    company_url: ''
-    company_logo:  
-    location: Beirut, Lebanon
-    date_start: '2001-06-15'
-    date_end: '2002-08-31'
-    description: 
-    
-  - title: Visiting Professor 
-    company: Center for Advanced Mathematical Sciences 
-    company_url: ''
-    company_logo:  
-    location: American University of Beirut, Beirut, Lebanon
-    date_start: '1999-06-15'
-    date_end: '1999-08-31'
-    description: 
-    
   - title: Senior Financial Analyst 
     company: Atlantic Portfolio Analytics & Management 
     company_url: ''
@@ -81,28 +54,11 @@ experience:
     company_url: ''
     company_logo:  
     location: West Lafayette, Indiana, USA
-    date_start: '1984-08-08'
-    date_end: '1988-07-01'
-    description:   
-    
-  - title: Visiting  Assistant Research Professor
-    company: Regional Research Institute, West Virginia University
-    company_url: ''
-    company_logo:  
-    location: Morgantown, West Virginia, USA
-    date_start: '1984-08-08'
-    date_end: '1988-07-01'
-    description:   
-    
-  - title: Lecturer in Economics
-    company: Purdue University
-    company_url: ''
-    company_logo:  
-    location: West Lafayette, Indiana, USA
     date_start: '1981-08-08'
-    date_end: '1984-07-01'
-    description:     
- 
+    date_end: '1988-07-01'
+    description:   
+    
+    
   - title: Research Associate
     company: American Statistical Association
     company_logo:  
@@ -110,6 +66,19 @@ experience:
     date_start: '1979-06-08'
     date_end: '1981-08-01'
     description:     
+    
+  - title: Visiting Positions
+    company: ""
+    date_start: "1984-08-01"
+    description: >-
+
+      * 8/2008 -- 8/2009: Department of Finance, Balamand University, Tripoli, Lebanon
+      
+      * 1998, 1999, 6/2001 -- 8/2002: Institute of Financial Economics, American University of Beirut, Beirut, Lebanon
+      
+      * 6/1999 -- 8/1999: Center for Advanced Mathematical Sciences, American University of Beirut, Beirut, Lebanon
+      
+      * 6/1986 -- 8/1987: Regional Research Institute, West Virginia University, Morgantown, West Virginia, USA
  
 design:
   columns: '2'
