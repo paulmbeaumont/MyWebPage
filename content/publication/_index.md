@@ -6,3 +6,5 @@ header:
 title: Publications
 view: 4
 ---
+
+Current Projects and Recent Publications
