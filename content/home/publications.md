@@ -9,7 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
+<<<<<<< HEAD
 title: Current Projects and Recent Publications
+=======
+title: Recent Publications and Work-in-Progress
+>>>>>>> 4d1a300a1972c922c8a5989e5169a066d53a3af8
 subtitle: ''
 
 content:
@@ -37,3 +41,9 @@ design:
   view: 4
 ---
 
+<<<<<<< HEAD
+=======
+# {{% callout note %}}
+# Quickly discover relevant content by [filtering publications](./publication/).
+# {{% /callout %}}
+>>>>>>> 4d1a300a1972c922c8a5989e5169a066d53a3af8
