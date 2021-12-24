@@ -18,7 +18,7 @@ projects: []
 publication: '*Communications in Statistics - Simulation and Computation* (forthcoming)'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2022-01-01T00:00:00Z"
 # slides: example
 # summary: 
