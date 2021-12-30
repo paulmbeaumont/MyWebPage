@@ -1,10 +1,5 @@
 ---
 abstract: Spillover indices computed from VAR models are intended to measure the connectedness between the variables in the system. The generalized spillover index (*gSOI*) computed using the generalized forecast error variance decomposition is often considerably larger than the conventional spillover index computed from specific Cholesky decompositions leading to the speculation that the *gSOI* produces an unreasonable measure of connectedness. We demonstrate that the *gSOI* does not produce unrealistic values. 
-author_notes:
- - Equal contribution
- - Equal contribution
- - Equal contribution
- - Equal contribution
 authors:
 - Thomas F. P. Wiesen
 - admin

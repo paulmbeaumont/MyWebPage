@@ -1,8 +1,8 @@
 ---
 date: "2021-01-24"
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-title: "\U0001F4CA Learn Data Science"
+linkTitle: ECO5434
+summary: Probability, statistics and an introduction to econometrics. (Taught in spring term.)
+title: ECO5434  Analysis of Economic Data (MS in Applied Economics Program)
 type: book
 ---
 
@@ -10,32 +10,19 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Course Description
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+This course is restricted to students in the MS in Applied Economics program. The course  provides a basic introduction to modern data analysis methods. We will use R Studio and R Markdown to produce several projects that embed the R code for data collection, data analysis, generation and interpretation of results into a single, reproducible report in HTML and PDF formats that may be updated with a single file execution step. Our primary focus will be on short-term forecasts of economic variables. Topics include: data collection and formatting into a “tidy” data frame (an updated version of SQL); forecasting methods; forecast ensembles and averaging; time-series methods such as ARIMA, VAR and VECM; and nowcasting using large data sets with mixed frequencies, different beginning and ending dates, and missing data.
 
-## Program overview
+## Learning Objectives
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+By the end of this course you will:
 
-## Courses in this program
+1. be familiar with the essential techniques in economic  data analysis and forecasting;
+2. know how to specify a model that is consistent with economic theory;
+3. be able to choose an appropriate statistical method to estimate the model;
+4. interpret your estimation and forecast results;
+5. prepare a brief technical report using R Markdown that can be easily updated and understood by a non-specialist.
 
-{{< list_children >}}
 
-## Meet your instructor
 
-{{< mention "admin" >}}
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
