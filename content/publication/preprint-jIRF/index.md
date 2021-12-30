@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 #  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 # tags:
 # - Source Themes
-title: A joint impulse response function for Vector Autoregressive Models
+title: A joint impulse response function for Vector Autoregressive Models (under review)
 # url_code: '#'
 # url_dataset: '#'
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
