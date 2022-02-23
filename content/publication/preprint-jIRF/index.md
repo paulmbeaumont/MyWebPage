@@ -1,5 +1,5 @@
 ---
-title: "A joint impulse response function for Vector Autoregressive Models (under review)"
+title: "A joint impulse response function for Vector Autoregressive Models (R & R)"
 authors:
 - Thomas F. P. Wiesen
 - admin
