@@ -25,7 +25,7 @@ publishDate: "2018-01-01T00:00:00Z"
 title: Are generalized spillover indices overstating connectedness?
 # url_code: ""
 # url_dataset: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+ url_pdf: https://doi.org/10.1016/j.econlet.2018.10.007
 # url_poster: ""
 # url_project: ""
 # url_slides: ""

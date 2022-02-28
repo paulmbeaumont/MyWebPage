@@ -24,7 +24,7 @@ publishDate: "2018-02-01T00:00:00Z"
 title: Time Series Simulation with Randomized Quasi-Monte Carlo Methods - An Application to Value at Risk and Expected Shortfall
 # url_code: ""
 # url_dataset: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1007/s10614-017-9661-0
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
