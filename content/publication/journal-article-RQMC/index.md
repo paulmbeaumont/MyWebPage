@@ -5,7 +5,7 @@ authors:
 - admin
 - Giray Okten
 # date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/s10614-017-9661-0"
 featured: false
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'

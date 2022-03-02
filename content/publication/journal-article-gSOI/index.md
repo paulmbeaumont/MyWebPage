@@ -6,7 +6,7 @@ authors:
 - Stefan C. Norrbin
 - Anuj Srivastava
 #date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.econlet.2018.10.007"
 featured: false
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
