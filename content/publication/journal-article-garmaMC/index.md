@@ -2,11 +2,11 @@
 title: "Inference for estimators of generalized long memory processes"
 authors:
 - admin
-- Aaron D. Smallwood
+- Aaron D. Smallwood 
 date: "2022-01-10T00:00:00Z"
 doi: "httpd://doi.org/10.1080/03610918.2021.2007399"
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-10T00:00:00Z"
+publishDate: "202`-01-10T00:00:00Z"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
