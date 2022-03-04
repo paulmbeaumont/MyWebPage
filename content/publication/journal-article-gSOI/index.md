@@ -1,5 +1,5 @@
 ---
-title: "Are generalized spillover indices overstating connectedness?"" 
+title: "Are generalized spillover indices overstating connectedness?"
 authors:
 - Thomas F. P. Wiesen
 - admin
