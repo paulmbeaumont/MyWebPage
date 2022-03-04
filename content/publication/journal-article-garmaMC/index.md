@@ -22,7 +22,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://doi.org/10.1080/03610918.2021.2007399""
+# url_pdf: "https://doi.org/10.1080/03610918.2021.2007399""
 url_code: ''
 url_dataset: ''
 url_poster: ''
