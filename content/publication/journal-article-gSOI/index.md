@@ -6,7 +6,7 @@ authors:
 - Stefan C. Norrbin
 - Anuj Srivastava
 date: "2022-04-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.econlet.2018.10.007"
+#doi: "https://doi.org/10.1016/j.econlet.2018.10.007"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"
 # Publication type.
