@@ -14,9 +14,10 @@ publishDate: "2018-01-01T00:00:00Z"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
-publication: "Journal of Computational Economics"
+publication: "*Journal of Computational Economics*"
 publication_short: ""
 abstract: Spillover indices computed from VAR models are intended to measure the connectedness between the variables in the system. The generalized spillover index (*gSOI*) computed using the generalized forecast error variance decomposition is often considerably larger than the conventional spillover index computed from specific Cholesky decompositions leading to the speculation that the *gSOI* produces an unreasonable measure of connectedness. We demonstrate that the *gSOI* does not produce unrealistic values. 
+tags:
 - Source Themes
 featured: false
 # links:
