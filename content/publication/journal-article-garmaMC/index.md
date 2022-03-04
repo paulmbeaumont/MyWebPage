@@ -4,7 +4,7 @@ authors:
 - admin
 - Aaron D. Smallwood 
 date: "2022-01-10T00:00:00Z"
-doi: "httpd://doi.org/10.1080/03610918.2021.2007399"
+#doi: "https://doi.org/10.1080/03610918.2021.2007399"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-10T00:00:00Z"
 # Publication type.
