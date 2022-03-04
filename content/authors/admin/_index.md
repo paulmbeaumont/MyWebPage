@@ -38,4 +38,4 @@ title: Paul Beaumont
 ---
 Paul Beaumont has an extensive academic graduate teaching background including MSc and Ph.D. level courses in data analysis, financial economics, financial econometrics, time series analysis, mathematical economics, econometric theory and Islamic finance. He has had several international teaching assignments including in Spain, Italy, France, Japan, Lebanon, UAE, and Syria. He has industry and consulting experience in quantitative finance including term structure modeling, fixed income analytics, mortgage backed securities, prepayment models, exotic derivatives, and Islamic financial instruments. He also has experience in developing, estimating and forecasting large-scale macro-econometric and demographic models including international trade linkage and financial flows models.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BeaumontVita.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BeaumontVita.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
