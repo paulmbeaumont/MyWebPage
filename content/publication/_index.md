@@ -4,7 +4,7 @@ header:
   caption: ""
   image: ""
 title: Publications
-view: 5
+view: 4
 ---
 
 Current Projects and Recent Publications
